@@ -1,0 +1,17 @@
+git and github
+--------------
+
+hithub is called as vcm-version control management(or system)
+
+git operations
+--------------
+
+-push - local repo to remote repo- project and new updations
+-clone -  remote repo to local repo - exact copy of project
+-pull - remote repo to local repo - new changes
+
+push
+----
+1- git add - local storage to staging area
+2- git commit - staging area to local repository
+3- push from local repo to remote repo
